@@ -15,7 +15,7 @@ Print the output as mentioned above.
 
 def print_full_name(a, b):
     if len(a) and len(b) <= 10:
-        print("Hello {} {}! You just delved into python.".format(a,b))
+        print("Hello {} {}! You just delved into python.".format(a,bgit))
 
 if __name__ == '__main__':
     first_name = raw_input()
